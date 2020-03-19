@@ -1,0 +1,25 @@
+<div class="container-movie">
+  <div
+    class="movie-panel"
+    *ngFor="let item of dataMovie; let i = index"
+    class=""
+  >
+    <div class="panel">
+      <div class="image">
+        <img src="{{ item.image }}" alt="{{ item.name }}" />
+      </div>
+      <div class="description">
+        <div class="name">
+          <h3>Name : {{ item.name }}</h3>
+        </div>
+        <div class="desc">
+          <h5>Description : {{ item.description }}</h5>
+        </div>
+      </div>
+      <div class="rate">
+        <img src="{{ icon }}" alt="star" />
+        <div>{{ item.rating }}</div>
+      </div>
+    </div>
+  </div>
+</div>

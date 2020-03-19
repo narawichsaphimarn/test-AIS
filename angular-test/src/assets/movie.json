@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Black Panther",
+    "description": "Black Panther is a 2018 American superhero film based on the Marvel Comics character of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures",
+    "rating": 4,
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Black_Panther_film_poster.jpg"
+  },
+  {
+    "name": "Dolittle",
+    "description": "Robert Downey, Jr. steps into the role of the famed doctor who can talk to animals — and it's nice to see him take off his Iron Man suit for a change. Animal voices come courtesy of everyone from Jon Cena and Selena Gomez to Octavia Spencer and Emma Thompson.",
+    "rating": 4.6,
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/kids-movies-2020-doolittke-1576597612.jpg?crop=0.8293075684380031xw:1xh;center,top&resize=980:*"
+  },
+  {
+    "name": "Bloodshot (2020)",
+    "description": "Ray Garrison, a slain soldier, is re-animated with superpowers.",
+    "rating": 4.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BYjA5YjA2YjUtMGRlNi00ZTU4LThhZmMtNDc0OTg4ZWExZjI3XkEyXkFqcGdeQXVyNjUyNjI3NzU@._V1_UY268_CR16,0,182,268_AL_.jpg"
+  },
+  {
+    "name": "Star Wars: Episode IX",
+    "description": "Star Wars: Episode IX - The Rise of Skywalker (2019) - IMDb",
+    "rating": 5.0,
+    "image": "https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg"
+  },
+  {
+    "name": "Sponge on the Run",
+    "description": "The SpongeBob Movie: Sponge on the Run is an upcoming American live-action/computer-animated adventure comedy film based on the animated television series SpongeBob SquarePants.",
+    "rating": 3.6,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Sponge_Out_of_Water_teaser_poster.jpeg/220px-Sponge_Out_of_Water_teaser_poster.jpeg"
+  }
+]
